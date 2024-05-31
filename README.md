@@ -1,3 +1,3 @@
 
 ## API
-Utiliza [API](https://pixabay.com/api/docs/ "API") para imágenes
+Utiliza la siguiente [API](https://pixabay.com/api/docs/ "API") para imágenes
